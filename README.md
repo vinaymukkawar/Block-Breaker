@@ -1,3 +1,3 @@
 # Unity Project : Block-Breaker
 
-![Unity Open Projects](/Img/Screenshot (102).png)
+![alt text](https://github.com/vinaymukkawar/Block-Breaker/Img/Screenshot (102).png)
